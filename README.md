@@ -23,9 +23,9 @@ ESP32 mikrodenetleyicisi üzerinde çalışan bu proje, seri port üzerinden kul
    git clone https://github.com/kullaniciadi/esp32-sozluk-uygulamasi.git
 Arduino IDE Ayarları:
 
-Kart Seçimi: Araçlar > Kart > ESP32 Dev Module
+Kart Seçimi: Araçlar > Kart > ESP32 Dev Module(Örnek olarak kendi kartınızı seçin normalde)
 
-Port Seçimi: Araçlar > Port > ESP32'nizin bağlı olduğu portu seçin.
+Port Seçimi: Araçlar > Port > ESP32'nizin bağlı olduğu portu seçin.(Örnek olarak kendi kartınızı seçin normalde)
 
 Kodu Yükleyin:
 
